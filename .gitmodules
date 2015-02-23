@@ -1,0 +1,3 @@
+[submodule "writermortis_server"]
+	path = writermortis_server
+	url = https://github.com/jasonblanchard/writermortis_server
